@@ -1,0 +1,15 @@
+.image {
+  height: 200px;
+  width: 300px;
+  border-radius: 20px;
+}
+
+.heading {
+  font-size: 24px;
+  font-family: 'Roboto';
+}
+
+.container {
+  margin: 20px;
+  list-style-type: none;
+}
